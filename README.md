@@ -1,6 +1,6 @@
 <h1 align="center"> Projeto Input Teclas  </h1>
 <p align="center">
-<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=%FINALIZADO&color=GREEN&style=for-the-badge"/>
+<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=GREEN&style=for-the-badge"/>
 </p>
 <p align="center">
 Projeto didático em JavaScript, focado em aprender sobre inputs.
