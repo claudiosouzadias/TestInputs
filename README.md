@@ -13,7 +13,7 @@ Projeto didático em JavaScript, focado em aprender sobre inputs.
 
 # 📁 Acesso ao projeto
 
-**Você pode acessar o [site](https://z3r1nh0.github.io/TestInputs/) diretamente ou [acessar](https://github.com/Z3R1NH0/TestInputs.git) os arquivos do progama.**
+**Você pode acessar o [site](test-inputs.vercel.app) diretamente ou [acessar](https://github.com/Z3R1NH0/TestInputs.git) os arquivos do progama.**
 
 # 🛠️ Abrir e rodar o projeto
 
